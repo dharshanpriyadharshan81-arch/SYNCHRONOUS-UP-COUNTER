@@ -59,6 +59,7 @@ Developed by:PRIYADHARSHAN.U RegisterNumber:25017406
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1528" height="592" alt="Screenshot 2025-12-10 112730" src="https://github.com/user-attachments/assets/47ef46fe-5bc3-4a43-b567-1ed9188425ed" />
 **TRUTH TABLE**
+
 ![TRUTH TABLE EXP11](https://github.com/user-attachments/assets/211b04a7-b3ed-492a-bc37-268213ac05bd)
 
 **RESULTS**
